@@ -1,11 +1,11 @@
 body {margin: 0;}
 
 
-/*h1 {
-	/*color:      white;*/
-	text-align: center;
+h1 {
+/*	color:      white;
+*/	text-align: center;
 	font-size:  2em;
-}*/
+}
 
 ul.topnav {
 	list-style-type: none;
